@@ -103,7 +103,7 @@ F --> G[Prediction]
 ## ▶️ How to Run
 
 ```bash
-git clone https://github.com/your-username/nlp-project.git
+git clone https://github.com/Ajay-hb/NLP-Project.git
 cd nlp-project
 pip install -r requirements.txt
 jupyter notebook ML_NLP_Project.ipynb
